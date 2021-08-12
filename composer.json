@@ -1,5 +1,5 @@
 {
-  "name": "weedoweb/sccrm-ei",
+  "name": "murdavron/bundle-ei",
   "version": "0.1.0",
   "type": "symfony-bundle",
   "description": "export and import to csv",
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Weedoweb\\EIBundle\\": "src/"
+      "Murdavron\\EIBundle\\": "src/"
     }
   },
   "autoload-dev": {

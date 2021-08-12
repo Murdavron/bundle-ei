@@ -1,5 +1,5 @@
 <?php
-namespace Weedoweb\EIBundle;
+namespace Murdavron\EIBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
