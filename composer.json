@@ -1,0 +1,29 @@
+{
+  "name": "weedoweb/sccrm-ei",
+  "version": "0.1.0",
+  "type": "symfony-bundle",
+  "description": "export and import to csv",
+  "license": "proprietary",
+  "require": {
+    "php": ">=7.4",
+    "symfony/framework-bundle": "5.2.*"
+  },
+  "require-dev": {
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "autoload": {
+    "psr-4": {
+      "Weedoweb\\EIBundle\\": "src/"
+    }
+  },
+  "autoload-dev": {
+  },
+  "extra": {
+    "symfony": {
+      "allow-contrib": false,
+      "require": "5.2.*"
+    }
+  }
+}
